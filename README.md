@@ -63,7 +63,7 @@ The new system architecture is designed based on the CQRS pattern, with distinct
 
 ## Implementation Details
 ### Steps Taken
-1. **Message Broker:** Configured Azure Service Bus / Kafka for reliable messaging and eventual consistency.
+1. **Message Broker:** Configured Azure Service Bus / RabbitMQ for reliable messaging and eventual consistency.
 2. **Command Microservices:** Developed multiple command microservices, each handling specific aggregates.
 3. **Event Sourcing:** Implemented event sourcing for write operations using SQL Stream Store to capture all state changes.
 4. **Projections:** Created projections in read microservices using Liquid Projections for efficient querying.
