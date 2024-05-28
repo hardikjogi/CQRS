@@ -1,8 +1,3 @@
-# CQRS
-System Design 
-![system design 1](https://github.com/hardikjogi/CQRS/assets/2298585/d75e885e-5430-4d68-a1a1-7777ea91ae8f)
-
-
 # CQRS Implementation Documentation
 
 ## Table of Contents
@@ -50,7 +45,7 @@ CQRS stands for Command Query Responsibility Segregation. It is a design pattern
 ### Architecture Overview
 The new system architecture is designed based on the CQRS pattern, with distinct components for handling commands and queries.
 
-![CQRS System Design](System%20Design.JPG)
+![system design 1](https://github.com/hardikjogi/CQRS/assets/2298585/d75e885e-5430-4d68-a1a1-7777ea91ae8f)
 
 ### Components
 - **Message Broker:** Azure Service Bus, RabbitMQ, NServiceBus for communication.
