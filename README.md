@@ -10,7 +10,6 @@
 7. [Benefits Achieved](#benefits-achieved)
 8. [Tangible Results](#tangible-results)
 9. [Conclusion](#conclusion)
-10. [References and Acknowledgements](#references-and-acknowledgements)
 
 ---
 
